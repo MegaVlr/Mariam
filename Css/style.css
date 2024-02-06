@@ -73,3 +73,11 @@ body {
 .root .container .content .text p {
   font-size: 26px;
 }
+@media (max-width: 767px) {
+  .root .container .content .text i {
+    font-size: 28px;
+  }
+  .root .container .content .text p {
+    font-size: 22px;
+  }
+}
